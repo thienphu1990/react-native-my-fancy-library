@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/github_account/react-native-my-fancy-library.git",
-    "baseUrl": "https://github.com/github_account/react-native-my-fancy-library"
+    "url": "https://github.com/thienphu1990/react-native-my-fancy-library.git",
+    "baseUrl": "https://github.com/thienphu1990/react-native-my-fancy-library"
   },
   "keywords": [
     "react-native"

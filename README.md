@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ npm install react-native-my-fancy-library --save`
+`$ npm install wee-module-v1 --save`
 
 ### Mostly automatic installation
 
